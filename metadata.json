@@ -1,0 +1,10 @@
+{
+  "name": "Face Recognition Attendance System",
+  "description": "Complete face recognition attendance management system with live camera scanning, student directory, automated check-in/check-out, sessions, reports, and CSV export.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

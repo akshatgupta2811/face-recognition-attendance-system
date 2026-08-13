@@ -1,0 +1,7 @@
+.git
+.gitignore
+README.md
+bun.lock
+.env
+.env.local
+npm-debug.log*
